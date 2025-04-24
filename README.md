@@ -12,7 +12,7 @@
     A dynamic platform for buying, selling, and renting properties.
     <br />
     <br />
-    <a href="https://www.hearth-app.com">View Demo</a>
+    <a href="https://hearth-1a8de8a7ce41.herokuapp.com">View Demo</a>
     ·
     <a href="https://github.com/tris-n/hearth/issues">Report Bug</a>
 	<br />
@@ -257,12 +257,12 @@ You can either view listings based on rent/sale categories or show the listings 
 ![listings]
 
 ### Getting Started
-Create an account at [https://www.hearth-app.com/sign-up](https://www.hearth-app.com/sign-up). Upon registration, it will automatically log you in.
+Create an account at [https://hearth-1a8de8a7ce41.herokuapp.com/sign-up](https://hearth-1a8de8a7ce41.herokuapp.com/sign-up). Upon registration, it will automatically log you in.
 
 ![register]
 
 ### Live Demo
-If you just want to demo the site without creating an account, you can click on one of the four role demos at [https://www.hearth-app.com/sign-in](https://www.hearth-app.com/sign-in).
+If you just want to demo the site without creating an account, you can click on one of the four role demos at [https://hearth-1a8de8a7ce41.herokuapp.com/sign-in](https://hearth-1a8de8a7ce41.herokuapp.com/sign-in).
 
 ![demo]
 
